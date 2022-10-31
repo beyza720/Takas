@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+#k12{
+  background-color: aquamarine;
+}
+.k span{
+  background-color: blueviolet;
+}
+a:hover{
+  font-size: large;
+}
